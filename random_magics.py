@@ -1,4 +1,3 @@
-
 from traitlets import Int, Float, Unicode, Bool
 from IPython.core.magic import (Magics, magics_class, line_magic)
 import numpy as np
